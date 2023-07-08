@@ -55,7 +55,7 @@ fn process_event(_dev: &Device, ev: &InputEvent, hotkey: bool) {
         }
         else if ev.event_code == EventCode::EV_KEY(EV_KEY::KEY_POWER) {
             //blink2();
-            Command::new("sudo").args(&["systemctl", "poweroff"]).output().expect("Failed to execute power off");
+            Command::new("sudo").args(&["systemctl", "suspend"]).output().expect("Failed to execute suspend");
         }
         else if ev.event_code == BT_TRG && ev.value > 0 {
             //blink2();
@@ -71,7 +71,7 @@ fn process_event(_dev: &Device, ev: &InputEvent, hotkey: bool) {
         Command::new("amixer").args(&["-q", "sset", "'Playback Path'", dest]).output().expect("Failed to execute amixer");
     }
     else if ev.event_code == EventCode::EV_KEY(EV_KEY::KEY_POWER) && ev.value == 1 {
-        Command::new("sudo").args(&["systemctl", "suspend"]).output().expect("Failed to execute suspend");
+        Command::new("sudo").args(&["systemctl", "poweroff"]).output().expect("Failed to execute power off");
     }
     else if ev.event_code == VOL_UP && ev.value > 0 {
          Command::new("volume.sh").args(&["1+"]).output().expect("Failed to execute amixer");
