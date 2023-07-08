@@ -1,0 +1,13 @@
+/home/nick/again/ogage/target/release/deps/evdev_rs-834d2fb49a8dd99d.rmeta: /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/lib.rs /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/macros.rs /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/device.rs /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/enums.rs /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/logging.rs /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/uinput.rs /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/util.rs
+
+/home/nick/again/ogage/target/release/deps/libevdev_rs-834d2fb49a8dd99d.rlib: /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/lib.rs /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/macros.rs /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/device.rs /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/enums.rs /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/logging.rs /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/uinput.rs /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/util.rs
+
+/home/nick/again/ogage/target/release/deps/evdev_rs-834d2fb49a8dd99d.d: /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/lib.rs /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/macros.rs /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/device.rs /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/enums.rs /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/logging.rs /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/uinput.rs /home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/util.rs
+
+/home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/lib.rs:
+/home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/macros.rs:
+/home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/device.rs:
+/home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/enums.rs:
+/home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/logging.rs:
+/home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/uinput.rs:
+/home/nick/.cargo/registry/src/github.com-1ecc6299db9ec823/evdev-rs-0.4.0/src/util.rs:
